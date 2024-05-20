@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Marketplace.SaaS.Accelerator.AdminSite
+build_property.RootNamespace = Marketplace.SaaS.Accelerator.AdminSite
+build_property.ProjectDir = C:\Users\mrwdw\Source\Repos\dwmrw\DWSaasOffer\src\AdminSite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mrwdw\Source\Repos\dwmrw\DWSaasOffer\src\AdminSite
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/ApplicationConfig/ApplicationConfigDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Db25maWdcQXBwbGljYXRpb25Db25maWdEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/ApplicationConfig/EmailTemplateDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Db25maWdcRW1haWxUZW1wbGF0ZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/ApplicationConfig/EmailTemplates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Db25maWdcRW1haWxUZW1wbGF0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/ApplicationConfig/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Db25maWdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/ApplicationLog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Mb2dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/ProcessMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9jZXNzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/RecordUsage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWNvcmRVc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/SubscriptionDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJzY3JpcHRpb25EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/SubscriptionLogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJzY3JpcHRpb25Mb2dEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/SubscriptionQuantityDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJzY3JpcHRpb25RdWFudGl0eURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/Subscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJzY3JpcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Home/ViewSubscriptionDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3U3Vic2NyaXB0aW9uRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/KnownUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS25vd25Vc2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Offers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Offers/OfferDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXE9mZmVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Offers/SuccessMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzXFN1Y2Nlc3NNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Plans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Plans/PlanDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnNcUGxhbkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Plans/SuccessMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnNcU3VjY2Vzc01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Scheduler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Scheduler/NewScheduler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVyXE5ld1NjaGVkdWxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Scheduler/SchedulerLogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVyXFNjaGVkdWxlckxvZ0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mrwdw/Source/Repos/dwmrw/DWSaasOffer/src/AdminSite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
